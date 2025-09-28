@@ -1,0 +1,39 @@
+História da Internet
+
+-> Surgiu durante a Guerra Fria (1949).
+-> Criação da DARPA nos Estados Unidos.
+    -> Criação da ARPANET (1969).
+        -> Função -> Gerar backup dos dados militares da época.
+
+-> Criação do protocolo NCP pela UCLA (uma universidade americana).
+    -> Função -> Criar uma linguagem comum para todos os computadores da ARPANET.
+    -> Apenas uma transmissão de dados era permitida por vez; toda a operação precisava parar a cada envio.
+    -> Feita completamente cabeada.
+
+-> Crescimento da rede.
+    -> 01 (1970).
+    -> 02 (1972).
+        -> Tornou-se impossível utilizar o protocolo NCP devido à alta quantidade de computadores.
+    -> Criação do TCP e do IP.
+        -> Não era mais preciso parar toda a operação para transmitir dados.
+        -> TCP permitia múltiplas transmissões.
+        -> IP (Internet Protocol) tornou-se o método de identificação usado até hoje.
+    -> Comunicação entre Estados Unidos e Londres (1977).
+    -> Separação da ARPANET.
+        -> Militar.
+        -> Comercial.
+        -> População.
+
+-> Criação da Internet ou redes de dados.
+    -> Comunicação mundial via cabos submersos.
+    -> Transmissão entre:
+        -> Cliente.
+        -> Servidor.
+    -> Como a Internet funcionava.
+        -> Protocolo Gopher para navegação.
+            -> Semelhante a um terminal existente hoje.
+        -> Criação do HTTP.
+            -> Criação do HTML.
+                -> Criado por Tim Berners-Lee.
+                    -> Também criou a sigla WWW.
+                        -> Criação do primeiro navegador.

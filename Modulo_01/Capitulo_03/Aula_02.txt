@@ -1,0 +1,21 @@
+Front-end, Back-end e Full Stack
+
+-> Tecnologias Client-Side
+    -> Tecnologias do lado do cliente
+        -> HTML, CSS e JavaScript
+            -> Front-end
+
+-> Tecnologias Server-Side
+    -> Tecnologias que trabalham do lado do servidor
+        -> PHP, Java, C#, C++, Ruby, Python, etc.
+            -> Back-end
+
+-> Exemplo: Cliente solicita uma compra
+    -> Não usamos somente tecnologias Front-end
+    -> Devemos usar também tecnologias Back-end
+        -> Que gera uma página HTML
+            -> Conecta com o banco de dados
+                -> Envia o restante das informações
+
+-> Desenvolvedor Full-Stack
+    -> Domina as duas áreas: Front-end e Back-end

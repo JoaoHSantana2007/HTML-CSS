@@ -1,0 +1,40 @@
+O que é Domínio e Hospedagem?
+
+-> Outras pessoas vão ver meu site?
+    -> Situação 01
+
+   |-> Servidor DNS <----------------------|---------> Cliente C
+   |                                       |
+   |-> Cliente A (endereço do site) <--- internet ---> Servidor (HTML e CSS)
+   |                                       |
+       Cliente B <-------------------------|
+
+
+    -> Situação 02
+
+   Servidor DNS <----------------------|---------> Cliente C
+                                       |
+   Cliente A (HTML e CSS) <---- internet        Servidor (inexistente: sem contato) 
+                                       |
+       Cliente B <---------------------|
+
+
+-> O HTML e o CSS só funcionam se tivermos um servidor.
+-> Para termos um site acessível, precisamos de um domínio e de uma hospedagem.
+    -> Domínio → Nome único do site.
+    -> Hospedagem → Onde armazenamos os arquivos (escolha de servidor).
+
+-> O que é uma Hospedagem?
+    -> Serviço pago mensalmente.
+    -> Espaço para armazenamento.
+    -> Espaço, memória e recursos disponíveis.
+
+-> O que é um Domínio (URL)?
+    -> Exemplo: www.github.com/gustavoguanabara
+
+        -> Domínio
+            -> www → Subdomínio.
+            -> github → Nome.
+            -> .com → Top-level domain.
+            -> .br → Country code (localização).
+            -> /gustavoguanabara → Caminho.

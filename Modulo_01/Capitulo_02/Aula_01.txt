@@ -1,0 +1,46 @@
+Como a Internet Funciona?
+
+-> Representação de dados
+    -> Funciona como sinais
+        -> 0 e 1
+            -> 0 → sem energia
+            -> 1 → com energia
+    -> Como é representado um sinal?
+        -> A unidade é o bit
+            -> 8 bits = 1 byte
+
+-> Obs: Para representar um dado são necessários 8 bits.
+    -> Como são convertidos os dados de armazenamento:
+        -> 8 bits = 1 byte
+        -> 1024 bytes = 1 KB
+        -> 1024 KB = 1 MB
+        -> 1024 MB = 1 GB
+        -> 1024 GB = 1 TB
+        -> 1024 TB = 1 PB
+        -> 1024 PB = 1 EB
+
+-> MB ≠ Mb
+    -> MB → megabyte → armazenamento
+    -> Mb → megabit → transmissão
+
+-> Como nos conectamos à Internet?
+    -> Seu computador é chamado de cliente.
+        -> Cliente → aparelho/modem → Internet
+    -> Cliente → sinais digitais (ondas quadradas)
+    -> Internet → sinais analógicos (ondas modais)
+        -> O aparelho/modem transforma sinais digitais em analógicos e vice-versa.
+            -> Esse processo é chamado de modulação e demodulação.
+
+-> Onde ficam armazenados os arquivos?
+    -> Ex: Cliente entra em um site.
+        -> O site tem um servidor.
+        -> O servidor tem uma identificação.
+            -> Denominada de IP.
+            -> Exemplo de IP: 2.229.112.97
+
+-> Como é interpretado o IP?
+    -> Faz contato com o DNS (Sistema de Nomes de Domínio).
+        -> O DNS relaciona o IP e devolve para o cliente em forma de endereço.
+
+-> Rota da Internet
+    -> Caminhos que os pacotes seguem na rede.

@@ -1,0 +1,74 @@
+Diferença entre HTML, CSS e JavaScript
+
+-> Como funcionam o HTML e o CSS?
+    -> HTML → HyperText Markup Language (linguagem de marcação)
+    -> CSS → Cascading Style Sheets (linguagem de estilização)
+
+-> TML → conteúdo
+    ->Textos, imagens, vídeos, tabelas, etc.
+
+->CSS → design
+    ->Formatação: cores, posições, tamanhos, sombras etc.
+
+-> JavaScript → Interações
+    -> Menus, animações, popups, validações etc.
+
+-> Conteúdo em HTML
+    ->Tags são elementos colocados entre sinais de < >
+
+    ->Exemplo título:
+
+        -> <h1> Exemplo título </h1>
+
+        -> <h1> → abertura da tag
+        -> </h1> → fechamento da tag
+
+    -> Exemplo parágrafo:
+
+        -> <p> Exemplo de parágrafo </p>
+
+        -> <p> → abertura da tag
+        -> </p> → fechamento da tag
+
+    -> Exemplo imagem:
+
+    -> <img src="foto.png" alt="exemplo foto">
+        
+        -> <img> → abertura da teg.
+        -> A teg nao possui fechamento.
+        -> src, alt → parametro.
+        -> foto.png → valor.
+
+-> Estilo CSS
+
+    -> Estrutura:
+
+        h1 {
+            font-family: Arial;
+            font-size: 20pt;
+            color: blue;
+        }
+
+    -> seletor → h1
+    -> declaração → dentro das chaves {}
+    -> propriedades → font-family, font-size, color
+    -> valores → Arial, 20pt, blue
+
+-> Estrutura básica de um documento HTML:
+
+        <!DOCTYPE html>
+        <html lang="pt-br">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+        </head>
+        <body>
+            <h1>Olá, mundo!</h1>
+        </body>
+        </html>
+
+
+-> Como funcionam o HTML e o CSS?
+    -> Cópia do HTML e CSS do servidor para o cliente.
+    -> O navegador interpreta as linguagens.

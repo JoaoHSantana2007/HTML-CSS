@@ -1,0 +1,11 @@
+Símbolos e Emojis no Site
+
+-> Símbolos especiais
+    -> Cada símbolo possui um código.
+        -> No PDF da aula temos a tabela e o link para os códigos.
+
+-> Emojis
+    -> Entre no site emojipedia.org
+
+        -> Selecione o emoji desejado
+            -> Copie o emoji ou acrescente o código do emoji seguido de &#x<codigo do emoji>.

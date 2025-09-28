@@ -1,0 +1,12 @@
+Formatos de Imagem para Web
+
+-> Formatos
+    -> JPEG → Compacta uma imagem utilizando menos armazenamento.
+    -> PNG → Permite transparência e maior nitidez.
+
+-> Comparação
+    -> JPEG → Maior distorção e menor nitidez.
+    -> PNG → Menor distorção e maior nitidez.
+
+-> Observação
+    -> Tomar cuidado com o tamanho das imagens para não deixar o sistema pesado.

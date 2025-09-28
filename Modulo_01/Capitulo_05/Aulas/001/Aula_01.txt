@@ -1,0 +1,6 @@
+Parágrafos e Quebras
+
+-> Dentro da tag <p></p> (Parágrafo), o texto não quebra a linha mesmo adicionando quebras no código.
+    -> Para adicionar uma quebra de linha, devemos usar a tag <br> em qualquer parte do texto.
+
+-> &lt; e &gt; servem para adicionar os sinais < e > dentro do texto exibido no site.

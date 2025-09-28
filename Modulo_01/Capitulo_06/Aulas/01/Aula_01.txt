@@ -1,0 +1,17 @@
+Uso de Imagens no Site
+
+-> Você tem o direito de usar qualquer imagem no seu site?
+    -> Não, não se pode colocar qualquer imagem no site.
+        -> Pois existem direitos autorais.
+
+-> Como achar imagens que posso usar?
+    -> Abra a aba de ferramentas no Google.
+        -> Selecione Direitos de uso.
+            -> Opções:
+                -> Marcadas para reutilização com modificação
+                -> Marcadas para reutilização
+
+-> Sites recomendados para imagens gratuitas:
+    -> Unsplash.com
+
+    -> Pexels.com

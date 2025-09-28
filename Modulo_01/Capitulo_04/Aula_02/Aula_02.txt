@@ -1,0 +1,6 @@
+Primeiro Código HTML
+
+-> h1 → Heading ou título; cria um título para o site.
+-> p → Parágrafo, define um bloco de texto.
+-> title → Define o título do site que aparece na guia do navegador.
+-> hr → Adiciona uma linha horizontal na página.
